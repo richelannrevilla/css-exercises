@@ -1,1 +1,23 @@
-/* Add CSS Styling */
+* { 
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+} 
+
+
+p {
+    background-color: #ffc0cb;
+}
+
+#num2 {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.num3 {
+    font-size: 24px;
+}
+
+#num4 {
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: 700;
+}
